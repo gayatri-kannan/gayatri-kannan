@@ -76,7 +76,6 @@ DDIM-based generative model implementation on CIFAR-10. Evaluated using Inceptio
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gayatri--kannan--ai-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gayatri-kannan-ai)
-[![Email](https://img.shields.io/badge/Email-gayatrikannan.20@gmail.com-red?style=flat&logo=gmail)](mailto:gayatrikannan.20@gmail.com)
 
 ---
 
